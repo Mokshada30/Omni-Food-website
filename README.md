@@ -4,7 +4,7 @@ Welcome to the Omni-Food project repository! This is a responsive food delivery 
 
 ## Preview
 
-![heroSection](https://github.com/Mokshada30/Omni-Food-website/assets/142814539/ee5bda0b-5f4b-45f3-a513-455ec0edc396)
+![heroSection](https://github.com/SaimNomani/omni-food/assets/142814539/ee5bda0b-5f4b-45f3-a513-455ec0edc396)
 
 
 ## Features
